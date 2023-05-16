@@ -1,0 +1,10 @@
+C:\Users\mikol\Desktop\HanoiTower\HanoiTower\bin\Debug\HanoiTower.exe.config
+C:\Users\mikol\Desktop\HanoiTower\HanoiTower\bin\Debug\HanoiTower.exe
+C:\Users\mikol\Desktop\HanoiTower\HanoiTower\bin\Debug\HanoiTower.pdb
+C:\Users\mikol\Desktop\HanoiTower\HanoiTower\obj\Debug\HanoiTower.csproj.AssemblyReference.cache
+C:\Users\mikol\Desktop\HanoiTower\HanoiTower\obj\Debug\HanoiTower.Properties.Resources.resources
+C:\Users\mikol\Desktop\HanoiTower\HanoiTower\obj\Debug\HanoiTower.csproj.GenerateResource.cache
+C:\Users\mikol\Desktop\HanoiTower\HanoiTower\obj\Debug\HanoiTower.csproj.CoreCompileInputs.cache
+C:\Users\mikol\Desktop\HanoiTower\HanoiTower\obj\Debug\HanoiTower.exe
+C:\Users\mikol\Desktop\HanoiTower\HanoiTower\obj\Debug\HanoiTower.pdb
+C:\Users\mikol\Desktop\HanoiTower\HanoiTower\obj\Debug\HanoiTower.frmMain.resources
